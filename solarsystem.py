@@ -1,3 +1,5 @@
+# This code was taken from https://towardsdatascience.com/simulate-a-tiny-solar-system-with-python-fbbb68d8207b written by Andrew Zhu
+
 # Ensure the right backend for Spyder
 import matplotlib
 matplotlib.use("Qt5Agg")
